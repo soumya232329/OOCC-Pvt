@@ -2866,6 +2866,7 @@ select.mobile-device {
 }
 
 /*===================================  MANI BANNER STARTSS   =========================*/
+/*===== about us banner ============*/
 .banner-bg-1{
 	background: url(uploads/main/4.png);
 	padding: 120px 0;	
@@ -2913,6 +2914,7 @@ select.mobile-device {
     width: 6px;
 }/*---------------- BANNER 1 ENDS------------------*/
 
+/*===========  our services banner==========*/
 .banner-bg-2{
 	background: url(uploads/main/2.png);
 	padding: 120px 0;	
@@ -2960,6 +2962,7 @@ select.mobile-device {
     width: 6px;
 }
 
+/*======== Photo Gallery BANNER =======*/
 .banner-bg-3{
 	background: url(uploads/main/5.png);
 	padding: 120px 0;	
@@ -3007,6 +3010,7 @@ select.mobile-device {
     width: 6px;
 }
 
+/*===============  TESTIMONIALS BANNER ===========*/
 .banner-bg-4{
 	background: url(uploads/main/3.png);
 	padding: 120px 0;	
