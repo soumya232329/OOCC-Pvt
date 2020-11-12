@@ -2865,7 +2865,7 @@ select.mobile-device {
     box-shadow: 0 0 8px 0 rgba(0,0,0,.12);
 }
 
-
+/*===================================  MANI BANNER STARTSS   =========================*/
 .banner-bg-1{
 	background: url(uploads/main/4.png);
 	padding: 120px 0;	
@@ -2911,7 +2911,150 @@ select.mobile-device {
     position: absolute;
     top: 8px;
     width: 6px;
+}/*---------------- BANNER 1 ENDS------------------*/
+
+.banner-bg-2{
+	background: url(uploads/main/2.png);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(0, 0, 0, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
 }
+
+.banner-bg-2::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+
+.banner{
+	position: relative;
+}
+
+.banner h2{
+	color: #f1f1f1;
+	font-size: 45px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin-left: 20px;
+	position: relative;
+}
+.banner h2::after {
+    background: #fd6802;
+    content: "";
+    height: 35px;
+    left: -15px;
+    position: absolute;
+    top: 8px;
+    width: 6px;
+}
+
+.banner-bg-3{
+	background: url(uploads/main/5.png);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(0, 0, 0, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+
+.banner-bg-3::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+
+.banner{
+	position: relative;
+}
+
+.banner h2{
+	color: #f1f1f1;
+	font-size: 45px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin-left: 20px;
+	position: relative;
+}
+.banner h2::after {
+    background: #fd6802;
+    content: "";
+    height: 35px;
+    left: -15px;
+    position: absolute;
+    top: 8px;
+    width: 6px;
+}
+
+.banner-bg-4{
+	background: url(uploads/main/3.png);
+	padding: 120px 0;	
+	background-clip: initial;
+	background-color: rgba(0, 0, 0, 0);
+	background-origin: initial;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+
+.banner-bg-4::before{
+	content: "";
+	display: inline-block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+	background: rgba(34, 34, 34, 0.4);
+}
+
+.banner{
+	position: relative;
+}
+
+.banner h2{
+	color: #f1f1f1;
+	font-size: 45px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	margin-left: 20px;
+	position: relative;
+}
+.banner h2::after {
+    background: #fd6802;
+    content: "";
+    height: 35px;
+    left: -15px;
+    position: absolute;
+    top: 8px;
+    width: 6px;
+}
+
+/*==================================    MAIN BANNER ENDS   ===============================*/
 
 .page-title-link li{
 	display: inline-block;
